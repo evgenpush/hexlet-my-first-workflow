@@ -1,3 +1,4 @@
 hexlet-my-first-workflow
 
-[![hexlet-check](https://github.com/evgenpush/java-project-lvl1/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/evgenpush/java-project-lvl1/actions/workflows/manual.yml)
+[![Github-actions](https://github.com/evgenpush/hexlet-my-first-workflow/actions/workflows/manual.yml/badge.svg)]
+(https://github.com/evgenpush/hexlet-my-first-workflow/actions/workflows/manual.yml)
